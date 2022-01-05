@@ -3,7 +3,8 @@ const pastVerbs = []
 const presVerbs = []
 const nouns = []
 const quotes = [['If you can ', {fill: 'infinitiveVerbs'}, ' a ', {fill: 'nouns'}, ' you can ', {fill: 'infinitiveVerbs'}, 
-' a ', {fill: 'nouns'}, '. - Patches O\'Houlihan'], ['Harry Potter... the boy who ', {fill: 'pastVerbs'}, ' come to ', {fill: 'infinitiveVerbs'}, '!']]
+' a ', {fill: 'nouns'}, '. - Patches O\'Houlihan'], ['Harry Potter... the boy who ', {fill: 'pastVerbs'}, 
+' come to ', {fill: 'infinitiveVerbs'}, '! - Lord Voldemort']]
 
 
 resourceLoader()
